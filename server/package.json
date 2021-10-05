@@ -11,7 +11,7 @@
   "license": "GPLv3",
   "dependencies": {
     "fastify": "^2.14.1",
-    "fastify-static": "^2.7.0",
+    "fastify-static": "^4.2.4",
     "hcaptcha": "0.0.1",
     "maxmind": "^4.1.1",
     "nstats": "^2.1.5"
